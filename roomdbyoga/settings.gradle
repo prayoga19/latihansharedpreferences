@@ -1,0 +1,2 @@
+rootProject.name='roomdbyoga'
+include ':app'
